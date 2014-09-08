@@ -16,7 +16,7 @@
 
 #= require jquery
 
-#= require homepage
+#= require scripts
 #= require maps
 
 #= require_self
