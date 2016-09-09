@@ -1,2 +1,2 @@
-basic middleman setup with haml/sass/coffee google maps
-========
+A simple Middleman boilerplate with haml, sass, coffeescript & google maps
+
